@@ -65,7 +65,7 @@
     &__left-input {
         display: none;
         &:checked + .wallet__left-inner-wrapper {
-            border: 3px solid #808DC3;
+            box-shadow: 0 0 0 3px #808DC3;
         }
     }
 
